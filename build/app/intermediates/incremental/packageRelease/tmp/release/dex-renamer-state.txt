@@ -1,0 +1,4 @@
+#Sun Jul 03 11:36:05 PKT 2022
+base.0=/Users/harry/Desktop/Flutter/sports/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
